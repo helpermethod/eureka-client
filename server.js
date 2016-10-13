@@ -12,7 +12,7 @@ client.on("error", function (err) {
 
 
 
-Create a server with a host and port
+// Create a server with a host and port
 const server = new Hapi.Server();
 server.connection({ 
   host: 'localhost', 

@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eureka-js-client": "^4.1.0"
+    "eureka-js-client": "^4.1.0",
+    "hapi": "^15.1.1",
+    "redis": "^2.6.2"
   }
 }
